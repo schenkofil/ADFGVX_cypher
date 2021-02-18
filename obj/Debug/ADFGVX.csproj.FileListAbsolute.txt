@@ -1,0 +1,10 @@
+C:\Projects\school\5-semestr\KRY\ADFGVX\bin\Debug\ADFGVX.exe.config
+C:\Projects\school\5-semestr\KRY\ADFGVX\bin\Debug\ADFGVX.exe
+C:\Projects\school\5-semestr\KRY\ADFGVX\bin\Debug\ADFGVX.pdb
+C:\Projects\school\5-semestr\KRY\ADFGVX\obj\Debug\ADFGVX.csprojAssemblyReference.cache
+C:\Projects\school\5-semestr\KRY\ADFGVX\obj\Debug\ADFGVX.Form1.resources
+C:\Projects\school\5-semestr\KRY\ADFGVX\obj\Debug\ADFGVX.Properties.Resources.resources
+C:\Projects\school\5-semestr\KRY\ADFGVX\obj\Debug\ADFGVX.csproj.GenerateResource.cache
+C:\Projects\school\5-semestr\KRY\ADFGVX\obj\Debug\ADFGVX.csproj.CoreCompileInputs.cache
+C:\Projects\school\5-semestr\KRY\ADFGVX\obj\Debug\ADFGVX.exe
+C:\Projects\school\5-semestr\KRY\ADFGVX\obj\Debug\ADFGVX.pdb
